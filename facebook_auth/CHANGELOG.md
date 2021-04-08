@@ -1,5 +1,5 @@
 ### 3.3.2-no-nullsafety
-- Version to project without null safety.
+- Version to projects without null safety.
 
 ### 3.3.2
 - Fixed unhandled exception for "exceeded the rate limit" on web.
