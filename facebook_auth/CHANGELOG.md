@@ -1,3 +1,5 @@
+### 3.3.3-no-nullsafety
+- fixed User logged in as a different facebook user
 ### 3.3.2-no-nullsafety
 - Version to projects without null safety.
 

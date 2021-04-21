@@ -55,10 +55,10 @@ class AccessToken {
       isExpired: json['isExpired'],
       declinedPermissions: json['declinedPermissions'] != null
           ? List<String>.from(json['declinedPermissions'])
-          : [],
+          : null,
       grantedPermissions: json['grantedPermissions'] != null
           ? List<String>.from(json['grantedPermissions'])
-          : [],
+          : null,
     );
   }
 

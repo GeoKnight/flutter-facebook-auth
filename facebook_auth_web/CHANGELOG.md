@@ -1,3 +1,5 @@
+### 2.4.2-no-nullsafety
+- flutter_facebook_auth_platform_interface: ^2.4.1-no-nullsafety
 ### 2.4.1-no-nullsafety
 - Version to project without null safety.
 ### 2.4.1
