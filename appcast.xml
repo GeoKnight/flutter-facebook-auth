@@ -3,11 +3,11 @@
     <channel>
         <title>Sook.ps - Appcast</title>
         <item>
-            <title>Version 0.2.8</title>
-            <description>Added new payment options.</description>
-            <pubDate>Wed, 24 Nov 2021 12:00:00 +0000</pubDate>
+            <title>Version 0.3.1</title>
+            <description>New homepage design.</description>
+            <pubDate>Wed, 1 Feb 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=ps.sookps2019.app"
-                sparkle:version="0.2.8" sparkle:os="android" />
+                sparkle:version="0.3.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
