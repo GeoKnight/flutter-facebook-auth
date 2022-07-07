@@ -3,11 +3,11 @@
     <channel>
         <title>Sook.ps - Appcast</title>
         <item>
-            <title>Version 0.3.7</title>
-            <description>Game Center added</description>
-            <pubDate>Wed, 8 Jun 2022 12:00:00 +0000</pubDate>
+            <title>Version 0.3.9</title>
+            <description>General Improvements</description>
+            <pubDate>Wed, 7 Jul 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=ps.sookps2019.app"
-                sparkle:version="0.3.7" sparkle:os="android" />
+                sparkle:version="0.3.9" sparkle:os="android" />
         </item>
     </channel>
 </rss>
